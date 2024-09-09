@@ -1,11 +1,7 @@
 |Hi, I’m @gsilva279
-
 |I’m interested in Develop softwares
-
 |I’m currently learning DS em ETE Miguel de Alencar
-
 |I’m looking to collaborate on JavaScript, Html, CSS
-
 |How to reach me josegilvanilson2020@gmail.com
 
 

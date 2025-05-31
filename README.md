@@ -1,5 +1,5 @@
 # 👨🏾‍💻 Sobre mim:
-Ciência da computação <br>Desenvolvimento de sistemas <br>Entusiasta de AÃ<br>
+Ciência da computação <br>Desenvolvimento de sistemas <br>Entusiasta de Ai<br>
 
 
 ## ✉️ Redes sociais:

@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Abaut me:
-Java Junior Developer (Back-end) <br> Computer Science student<br>Systems Development <br>Ai and ML Enthusiast<br>
+- Java Junior Developer (Back-end) <br> - Computer Science student<br> - Systems Development <br> - Ai and ML Enthusiast<br>
 
 
-## ✉️ networks:
+# Networks:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/jvzKyvBf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gilvanilson-silva-650a66324) [![e-mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josegilvanilson2020@gmail.com)
 
 # 💻 Technologies:
@@ -13,7 +13,7 @@ Java Junior Developer (Back-end) <br> Computer Science student<br>Systems Develo
 ![](https://nirzak-streak-stats.vercel.app/?user=gsilva279&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsilva279&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🧠Phrase
+# 🧠Phrase
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

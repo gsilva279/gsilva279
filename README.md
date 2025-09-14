@@ -1,5 +1,5 @@
 # 👨🏾‍💻 Abaut me:
-- Java Junior Developer (Back-end) <br> - Computer Science student<br> - Systems Development <br> - Ai and ML Enthusiast<br>
+Java Junior Developer (Back-end) <br> Computer Science student<br> Systems Development <br> Ai and ML Enthusiast<br>
 
 
 # Networks:
